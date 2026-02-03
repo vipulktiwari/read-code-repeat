@@ -3,13 +3,10 @@ A daily journey of coding, reading, and learning to sharpen problem-solving skil
 
 <h3>Daily Questions Practice</h3>
 
-| Date  | Vipul |
-| :---: | :---: |
-| 04/08 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)|
-| 05/08 |[3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)|
-| 13/09 |[3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/?envType=daily-question&envId=2025-09-13)|
-| 14/09 |[966. Vowel Spellchecker](http://leetcode.com/problems/vowel-spellchecker/description/?envType=daily-question&envId=2025-09-14)|
-| 23/09 |[165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|
+| Date  | Vipul | Remarks |
+| :---: | :---: | :----:  |
+| 03/02 |[3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/)||
+
 
 <br>
 
